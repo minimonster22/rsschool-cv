@@ -59,3 +59,25 @@ I have a little knowledge of html and css, but I'm trying to study it in more de
 ```
 
 ***
+
+
+## **Courses**
+* RS Schools Course «JavaScript/Front-end. Stage 0» *(in progress)*
+
+***
+
+## **Education**
+Higher education. Bachelor's degree - Logistician-economist.
+
+***
+
+## **Languges**
+
+| Language     | Level  |
+| :----------: | :----: |
+| Russian      | native |
+| Belarussian  | native |
+| English      | B1     |
+
+
+*My best friend from USA. We communicate very often in Telegram. And we rarely call each other.*
